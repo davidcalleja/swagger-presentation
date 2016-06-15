@@ -1,6 +1,9 @@
+<section data-background="/resources/robot-desktop.png">
 
-# Swagger
-## This is swagger madafaka!
+![alt text](/resources/swagger-logo.png "Logo Swagger")
 
-<section data-background="http://i.giphy.com/90F8aUepslB84.gif">
+# *__Swagger__*
+##### define tu api
+###### por David Calleja
 
+![alt text](/resources/twd_logo_only.png "the walking dev logo")
