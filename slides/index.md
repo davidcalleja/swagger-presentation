@@ -1,7 +1,10 @@
+<section data-background="/resources/robot-desktop.png">
 
-# Pruebas de integracion 
-## y su configuracion en maven
+![alt text](/resources/swagger-logo.png "Logo Swagger")
 
- ```presentado por Abraham Vargas``` <!-- .element: class="fragment" --> 
+# *__Swagger__*
+##### define tu api
 
- ![](resources/twd_logo_only.png) <!-- .element: class="fragment" --> 
+###### por David Calleja
+
+![alt text](/resources/twd_logo_only.png "the walking dev logo")

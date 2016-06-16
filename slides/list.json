@@ -1,11 +1,13 @@
 [
     "index.md",
-    "que-son.md",
-    [
-        "ciclo-vida.md",
-        "ciclo-vida-2.md",
-        "failsafe.md",
-        "convenciones.md"
-    ],
-    "code.md"
+    "que-es-swagger.md",
+    "pero-he-mentido-un-poco.md",
+    "para-que-sirve.md",
+    "y-asi-es-como-se-veria.md",
+    "facilidad-a-la-hora-de-editar.md",
+    "ademas.md",
+    "molaa.md",
+    "pero-a-nosotros-no-nos-vale.md",
+    "y-aqui-es-donde-nos-molamos.md",
+    "magia.md"
 ]
